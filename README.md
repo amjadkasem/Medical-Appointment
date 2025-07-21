@@ -29,7 +29,7 @@ This is an Exploratory Data Analysis (EDA) project on a medical appointment data
 📁 Files in This Repo
 - `pro.ipynb`: Jupyter notebook with full code  
 - `images/`: Contains visualizations used in the project  
-- `EDA_Report.md`:  Detailed report with all visuals and descriptions  
+ 
 
 ---
 
@@ -39,6 +39,14 @@ This is an Exploratory Data Analysis (EDA) project on a medical appointment data
 - Improve visual storytelling
 
 ---
+## Visualizations
+
+ 1. No-Show Distribution by Gender
+![Gender Distribution](output.png)
+
+ 2. Attendance vs No-Show
+![Attendance](2.png)
+--
 
  👤 About Me
 I'm  Amjad Kasem, a biomedical engineering graduate passionate about data analytics in healthcare.  
